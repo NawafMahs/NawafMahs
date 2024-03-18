@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Nawaf Mahsoun and I'm a DotNet Developer from Syria Aleppo</h3>
+<h3 align="center">{ ... }</h3>
 
 ###
 
