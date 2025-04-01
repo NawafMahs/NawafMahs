@@ -1,53 +1,42 @@
-# 🧑💻 **Nawaf Mahsoun** 
-#### *Senior .NET Developer | Cloud Solutions Architect* ☁️
+# 👨💻 **Nawaf Mahsoun** 
+#### **Senior .NET Architect** ⚡ **Microsoft Certified** 📍 Aleppo, Syria
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawafmahsoun)
-[![Buy Me Coffee](https://img.shields.io/badge/Support%20My%20Work-Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/nawafmahsoun)
-[![Visitors](https://komarev.com/ghpvc/?username=nawafmahsoun&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nawafmahsoun)
+[![Email](https://img.shields.io/badge/Contact%20Me-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anawafmahsoun11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
-## 🛠 **Technical Expertise**
+## 🔧 **Technical Expertise**
 
 ### **Core Competencies**
 <div align="center">
-  
-| Category        | Technologies                                                                 |
-|-----------------|------------------------------------------------------------------------------|
-| **Backend**     | .NET 7+, C#, ASP.NET Core, Web API, Entity Framework Core, LINQ, SignalR     |
-| **Cloud**       | Azure Functions, Azure App Service, Azure SQL, Service Bus, Storage Accounts |
-| **Architecture**| Microservices, Clean Architecture, DDD, CQRS, RESTful APIs, SOA             |
-| **DevOps**      | Azure DevOps, Docker, Kubernetes, CI/CD Pipelines, ARM Templates             |
-| **Database**    | SQL Server, Cosmos DB, Redis, Entity Framework Core, Dapper                  |
-| **Frontend**    | Blazor, Razor Pages, HTML5, CSS3, JavaScript                                 |
+
+| **Backend Architecture** | **Cloud & DevOps** | **Full Stack Development** |
+|--------------------------|---------------------|----------------------------|
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) | ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white) |
+| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=.net&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4285F4?style=flat&logo=google-chrome&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 </div>
 
-## 🏆 **Featured Projects**
+## 🏆 **Professional Highlights**
 
-### 1. Enterprise E-Commerce Platform ([GitHub](https://github.com/...))
-**Tech Stack:** ASP.NET Core 7, Angular 15, Azure Functions, Cosmos DB  
-**Features:**
-- 🚀 Scalable microservices architecture
-- 🔒 Azure AD B2C authentication
-- 📊 Real-time analytics dashboard
-- 💳 Integrated payment gateway (Stripe/PayPal)
+### **Key Achievements**
+- **Architecture Optimization:** Implemented clean architecture principles increasing system scalability by 40%
+- **Performance Engineering:** Developed APIs improving data processing speed by 30%
+- **Project Leadership:** Managed full-cycle development of karman-trading.com, reducing delivery time by 20%
+- **Team Development:** Mentored 5+ junior developers, boosting team productivity by 25%
 
-### 2. Hospital Management System ([GitHub](https://github.com/...))
-**Tech Stack:** .NET 6, Blazor WASM, EF Core, SQL Server  
-**Highlights:**
-- 🏥 Patient management module
-- 📅 Appointment scheduling system
-- 💊 Pharmacy inventory management
-- 📈 Reporting dashboard with Power BI integration
+### **Featured Project: Karman Trading Platform**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-32CD32?style=for-the-badge)](http://karman-trading.com)
+**Tech Stack:** ASP.NET Core MVC | Entity Framework Core | Blazor | SQL Server  
+**Key Features:**
+- 🚗 Complete automotive e-commerce solution
+- 🔐 Secure payment processing integration
+- 📦 Advanced inventory management system
+- 📊 Real-time sales analytics dashboard
 
-### 3. Azure DevOps Pipeline Templates ([GitHub](https://github.com/...))
-**Components:**
-- 🛠️ Reusable YAML templates
-- 🔐 Security scanning integration
-- 🧪 Automated testing framework
-- 🚢 Multi-environment deployment
-
-## 📊 **GitHub Analytics**
-
+## 📈 **GitHub Impact**
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawafmahsoun&show_icons=true&theme=radical&hide_title=true)
@@ -55,14 +44,19 @@
 
 </div>
 
-## ☕ **Support My Work**
-If you find my projects valuable, consider supporting my development journey:
+## 🎓 **Education & Certifications**
+- **MEng in Software Engineering**  
+  Ebla Private University (2021-2026)  
+  ![University](https://img.shields.io/badge/Specialization-Informatics_&_Communications-2F5D7D?style=flat)
 
-[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nawafmahsoun)
+- **Microsoft Certified: Foundational C#**  
+  ![Microsoft](https://img.shields.io/badge/Issued-July_2023-5E5E5E?style=flat&logo=microsoft)
 
-Your support helps me maintain and create more open-source solutions for the community!
+## 📬 **Professional Network**
+<div align="center">
 
-## 📬 **Let's Connect**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nawafmahsoun)
-- 📧 nawaf.mahsoun@email.com
-- 🐦 [Twitter @nawafmahsoun](https://twitter.com/nawafmahsoun)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nawafmahsoun)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-profile)
+[![Medium](https://img.shields.io/badge/Technical_Blogs-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
+
+</div>
