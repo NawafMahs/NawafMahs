@@ -1,22 +1,68 @@
-# 👨💻 Nawaf Mahsoun | .NET Developer
+# 🧑💻 **Nawaf Mahsoun** 
+#### *Senior .NET Developer | Cloud Solutions Architect* ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawafmahsoun)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawafmahsoun)
+[![Buy Me Coffee](https://img.shields.io/badge/Support%20My%20Work-Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/nawafmahsoun)
+[![Visitors](https://komarev.com/ghpvc/?username=nawafmahsoun&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/nawafmahsoun)
 
-## 🛠️ Core Competencies
-- **Backend Development**: ASP.NET Core, Web API, Entity Framework Core
-- **Cloud Technologies**: Azure Functions, App Services, SQL Database
-- **Architecture**: Clean Architecture, Microservices, RESTful APIs
-- **DevOps**: Azure DevOps CI/CD, Docker, Kubernetes
+## 🛠 **Technical Expertise**
 
-## 🔥 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [E-Commerce Platform](https://github.com/...) | Full-stack e-commerce solution | ASP.NET Core, React, Azure |
-| [ERP System](https://github.com/...) | Enterprise resource planning system | .NET 6, Blazor, SQL Server |
-| [API Boilerplate](https://github.com/...) | Production-ready API template | Clean Architecture, JWT, Swagger |
+### **Core Competencies**
+<div align="center">
+  
+| Category        | Technologies                                                                 |
+|-----------------|------------------------------------------------------------------------------|
+| **Backend**     | .NET 7+, C#, ASP.NET Core, Web API, Entity Framework Core, LINQ, SignalR     |
+| **Cloud**       | Azure Functions, Azure App Service, Azure SQL, Service Bus, Storage Accounts |
+| **Architecture**| Microservices, Clean Architecture, DDD, CQRS, RESTful APIs, SOA             |
+| **DevOps**      | Azure DevOps, Docker, Kubernetes, CI/CD Pipelines, ARM Templates             |
+| **Database**    | SQL Server, Cosmos DB, Redis, Entity Framework Core, Dapper                  |
+| **Frontend**    | Blazor, Razor Pages, HTML5, CSS3, JavaScript                                 |
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawafmahsoun&show_icons=true&theme=radical)
+</div>
+
+## 🏆 **Featured Projects**
+
+### 1. Enterprise E-Commerce Platform ([GitHub](https://github.com/...))
+**Tech Stack:** ASP.NET Core 7, Angular 15, Azure Functions, Cosmos DB  
+**Features:**
+- 🚀 Scalable microservices architecture
+- 🔒 Azure AD B2C authentication
+- 📊 Real-time analytics dashboard
+- 💳 Integrated payment gateway (Stripe/PayPal)
+
+### 2. Hospital Management System ([GitHub](https://github.com/...))
+**Tech Stack:** .NET 6, Blazor WASM, EF Core, SQL Server  
+**Highlights:**
+- 🏥 Patient management module
+- 📅 Appointment scheduling system
+- 💊 Pharmacy inventory management
+- 📈 Reporting dashboard with Power BI integration
+
+### 3. Azure DevOps Pipeline Templates ([GitHub](https://github.com/...))
+**Components:**
+- 🛠️ Reusable YAML templates
+- 🔐 Security scanning integration
+- 🧪 Automated testing framework
+- 🚢 Multi-environment deployment
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawafmahsoun&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawafmahsoun&layout=compact&theme=radical&hide_title=true)
+
+</div>
+
+## ☕ **Support My Work**
+If you find my projects valuable, consider supporting my development journey:
+
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nawafmahsoun)
+
+Your support helps me maintain and create more open-source solutions for the community!
+
+## 📬 **Let's Connect**
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nawafmahsoun)
+- 📧 nawaf.mahsoun@email.com
+- 🐦 [Twitter @nawafmahsoun](https://twitter.com/nawafmahsoun)
