@@ -210,7 +210,7 @@ From national **emergency dispatch systems** to government **ERP platforms** acr
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/ambulance.png" width="70" alt="Emergency"/>
+  <img src="https://dev-app.whitehelmets.org/assets/images/logo.png" width="100" height="75" alt="Emergency"/>
   <h3>🚑 MEDEmergency Platform</h3>
   <sub><b>Ministry of Emergency & Disaster Management</b></sub>
 </div>
@@ -250,7 +250,7 @@ Enterprise workflow platforms for regulatory bodies across Lebanon and Jordan.
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/helmet.png" width="70" alt="White Helmets"/>
+  <img src="https://imgs.search.brave.com/NXUwNrD8z8bLgAYzZg8hU4etmDqK2FY9lDUyw4fp_lc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vOC84Ny9M/b2dvX1doaXRlX0hl/bG1ldHNfJTI4U3ly/aWFuX2NpdmlsX3dh/ciUyOS5wbmc" width="75" height="100" alt="White Helmets"/>
   <h3>⛑️ White Helmets Systems</h3>
   <sub><b>Syria Civil Defence (3+ years)</b></sub>
 </div>
@@ -304,7 +304,7 @@ Pioneering the use of AI agents in enterprise .NET development pipelines.
   <tr>
     <td align="center" width="25%">
       <!-- Ministry of Emergency & Disaster Management -->
-      <img src="https://img.icons8.com/color/80/ministry-of-internal-affairs-russia.png" width="60" alt="Ministry"/>
+      <img src="https://dev-app.whitehelmets.org/assets/images/logo.png" width="100" height="75" alt="Ministry"/>
       <br/>
       <b>Ministry of Emergency<br/>& Disaster Management</b>
       <br/>
@@ -314,7 +314,7 @@ Pioneering the use of AI agents in enterprise .NET development pipelines.
     </td>
     <td align="center" width="25%">
       <!-- Cloud Systems SARL -->
-      <img src="https://img.icons8.com/color/80/cloud.png" width="60" alt="Cloud Systems"/>
+      <img src="https://www.cloudsystems.tech/static/media/cloud.4b0d82be8281e9418a25.webp" width="75" height="75" alt="Cloud Systems"/>
       <br/>
       <b>Cloud Systems<br/>SARL</b>
       <br/>
@@ -324,7 +324,7 @@ Pioneering the use of AI agents in enterprise .NET development pipelines.
     </td>
     <td align="center" width="25%">
       <!-- SWB Company -->
-      <img src="https://img.icons8.com/color/80/company.png" width="60" alt="SWB"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHhe3j8EcZN9w/company-logo_200_200/B4DZbuFi.XIEAI-/0/1747751154314/swbostani_logo?e=1786579200&v=beta&t=KvsMTnu8CibK5JYJfzIW_ByXTSBVetIdLV4dO95wa54" width="60" alt="SWB"/>
       <br/>
       <b>SWB<br/>Company</b>
       <br/>
@@ -334,7 +334,7 @@ Pioneering the use of AI agents in enterprise .NET development pipelines.
     </td>
     <td align="center" width="25%">
       <!-- White Helmets -->
-      <img src="https://img.icons8.com/color/80/helmet.png" width="60" alt="White Helmets"/>
+      <img src="https://imgs.search.brave.com/NXUwNrD8z8bLgAYzZg8hU4etmDqK2FY9lDUyw4fp_lc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vOC84Ny9M/b2dvX1doaXRlX0hl/bG1ldHNfJTI4U3ly/aWFuX2NpdmlsX3dh/ciUyOS5wbmc" width="75" height="100" alt="White Helmets"/>
       <br/>
       <b>The White Helmets<br/>(Syria Civil Defence)</b>
       <br/>
