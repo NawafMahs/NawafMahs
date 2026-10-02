@@ -213,18 +213,6 @@ specify  →  plan  →  tasks  →  implement  →  human review  →  tests  �
 
 ---
 
-### 🐍 Contribution activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NawafMahs/NawafMahs/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution snake"/>
-
-<sub>Most of my production work lives in private government and NGO repositories.</sub>
-
-</div>
-
----
-
 ### 🎓 Credentials
 
 <div align="center">
